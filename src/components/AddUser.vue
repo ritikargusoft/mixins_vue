@@ -7,7 +7,7 @@
     <button @click="showAlert">Add User</button>
   </section>
 </template>
-
+ 
 <script>
 import alertMixin from "../mixins/alert.js"
 import UserAlert from '../components/UserAlert.vue';
